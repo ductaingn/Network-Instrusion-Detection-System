@@ -1,2 +1,4 @@
 test.ipynb
 test.py
+Data/Processed/*
+Data/Raw/*
